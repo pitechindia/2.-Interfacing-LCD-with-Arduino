@@ -1,1 +1,1 @@
-# 2.-Interfacing-LCD-with-Arduino
+# 2. Interfacing-LCD-with-Arduino
